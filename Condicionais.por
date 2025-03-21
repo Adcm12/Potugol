@@ -18,13 +18,8 @@ programa {
     se (media >= 7){
 
       escreva("\n\nVocé foi aprovado!!!") 
-    }
-
-    se (media <= 6){
-
+    } senao {
       escreva("\n\nVocé foi reprovado!!!")
     }
-
-    
   }
 }
